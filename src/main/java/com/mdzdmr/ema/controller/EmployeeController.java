@@ -5,7 +5,6 @@ import com.mdzdmr.ema.dto.UpdateEmployeeRequest;
 import com.mdzdmr.ema.entity.Employee;
 import com.mdzdmr.ema.service.EmployeeService;
 import jakarta.validation.Valid;
-import org.hibernate.sql.Update;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
